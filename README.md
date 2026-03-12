@@ -1,5 +1,7 @@
 # Institute of Digital Risk (IDR)
 
+Live - https://akoin-omega.vercel.app/
+
 A responsive single-page website for the Institute of Digital Risk — an industry-led training and deployment institute focused on digital, cyber, and AI risk.
 
 ## Project Structure
